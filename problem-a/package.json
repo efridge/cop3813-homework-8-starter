@@ -1,0 +1,19 @@
+{
+  "name": "problem-a",
+  "version": "1.0.0",
+  "description": "Problem A",
+  "main": "driver.js",
+  "scripts": {
+    "test": "ts-jest",
+    "start": "ts-node driver.ts"
+  },
+  "author": "E.L. Fridge",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.3",
+    "ts-node": "^10.9.1"
+  }
+}
